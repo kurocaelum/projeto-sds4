@@ -4,7 +4,7 @@ const Footer = () => {
       <div className='container'>
         <p className='text-light'>
           App desenvolvido por{' '}
-          <a href='https://github.com/kurocaelum/' target='_blank' rel='noreferrer'>
+          <a href='https://www.linkedin.com/in/victor-simplício-29201b214/' target='_blank' rel='noreferrer'>
             Victor Simplício
           </a>
         </p>
